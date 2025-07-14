@@ -1,16 +1,18 @@
 **Hơn 8.000 chiến dịch quảng cáo đã được triển khai — nhưng chỉ 14% thực sự hiệu quả. Tại sao?**
 
 Mỗi tập dữ liệu đều kể một câu chuyện. Và khi nói đến các chiến dịch quảng cáo, câu chuyện đó chứa đầy những bài học quý giá. Dưới đây là những gì chúng tôi khám phá được:
-- Thông tin chi tiết chính:
+
+Thông tin chi tiết chính:
 + Instagram mang lại ROI cao nhất (>400%), Facebook là nền tảng tiết kiệm chi phí nhất và Twitter mang lại tỷ lệ chuyển đổi cao nhất.
 + Pinterest nhìn chung hoạt động kém hiệu quả — ngoại trừ các phân khúc ngách như Ẩm thực Tây Ban Nha và Thời trang Pháp.
 + Các chiến dịch bằng tiếng Tây Ban Nha tạo ra ROI cao nhất trong cả lĩnh vực thời trang và ẩm thực.
 + Thời hạn 45 ngày hoạt động hiệu quả nhất cho việc nâng cao nhận diện thương hiệu và ra mắt sản phẩm, trong khi thời hạn 60 ngày tối ưu hóa các chiến dịch thúc đẩy doanh số.
-- Vị trí quan trọng:
+
+Vị trí quan trọng:
 + New York và Austin dẫn đầu về hiệu suất bán hàng.
 + Las Vegas hiệu quả nhất cho việc nâng cao nhận diện thương hiệu.
 
-- Những bài học chiến lược:
+Những bài học chiến lược:
 + Đừng chỉ tối ưu hóa bằng cách cắt giảm chi phí, hãy đầu tư vào những gì thực sự hiệu quả.
 + Tập trung hơn vào 14% chiến dịch có hiệu suất cao nhất (ROI > 589%).
 + Sử dụng thông tin chi tiết theo thời gian thực để duy trì sự linh hoạt và đưa ra quyết định sáng suốt.
