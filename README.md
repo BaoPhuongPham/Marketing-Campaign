@@ -21,9 +21,12 @@ Mỗi tập dữ liệu đều kể một câu chuyện. Và khi nói đến cá
 🔗Để tìm hiểu sâu hơn về phân tích, vui lòng truy cập liên kết tại đây: https://lnkd.in/gbCFxjtG
 
 💝Cuối cùng, xin cảm ơn The Analyst Challenge đã mang đến cho chúng tôi một thử thách vô cùng tuyệt vời và giúp chúng tôi hoàn thiện hơn trong công việc. Thật tuyệt vời khi được đào sâu vào dữ liệu thực tế, nhận được lời khuyên bổ ích từ ban giám khảo và kết nối với những người yêu thích phân tích dữ liệu. Thử thách này không chỉ kiểm tra kỹ năng của chúng tôi mà còn là một bước đệm vô cùng hữu ích cho sự nghiệp của chúng tôi.
-<img width="1639" height="792" alt="image" src="https://github.com/user-attachments/assets/0776bdfa-fee8-4220-993d-6d90c7f6c033" />
+<img width="1411" height="679" alt="image" src="https://github.com/user-attachments/assets/e36af172-999c-47e9-ac6e-aac31cc7239e" />
+
 <img width="1641" height="789" alt="image" src="https://github.com/user-attachments/assets/15e4667b-7e7c-44ba-94b2-b30f7243be4b" />
+
 <img width="1639" height="793" alt="image" src="https://github.com/user-attachments/assets/e2d8eeb0-c568-466e-b23e-17efbd25f509" />
+
 <img width="1639" height="794" alt="image" src="https://github.com/user-attachments/assets/65202cea-5188-491c-9a7c-5fdac842b173" />
 
 
